@@ -14,9 +14,9 @@ font-family: var(--primary-font)
  /* header */
 
 .logo{
-    color:#2196F3;
-    font-family: var(--secondary-font);
-    text-decoration: none;
+color:#2196F3;
+font-family: var(--secondary-font);
+text-decoration: none;
 }
 
 .logo-black{
@@ -40,33 +40,33 @@ color: var(--accent-color);
 
 
 .list{
-    list-style: none;
-    text-decoration: none;
+list-style: none;
+text-decoration: none;
 }
 
 .link {
-    color: var(--primary-text-color);
-    text-decoration: none;
+color: var(--primary-text-color);
+text-decoration: none;
 }
 
 
 .link:hover,
 .link:focus{
-    color: var(--accent-color);
+color: var(--accent-color);
 }
+
 .contacts{
 color: #757575;
-
 }
 
 /* main */
 
 .title{
-    font-family: var(--primary-font);
-    font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 1,36;
+font-family: var(--primary-font);
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1,36;
     /* color: #FFFFFF; */
 }
 .button{
@@ -82,7 +82,7 @@ border-radius: 4px;
 }
 
 .heading{
-    font-family: var(--primary-font);
+font-family: var(--primary-font);
 font-weight: 700;
 font-size: 36px;
 line-height: 1,17;
@@ -90,7 +90,7 @@ color: var(--primary-text-color);
 }
 
 .subtitle{
-    font-family: var(--primary-font);
+font-family: var(--primary-font);
 font-weight: 700;
 font-size: 14px;
 line-height: 1,14;
@@ -98,18 +98,18 @@ color: var(--primary-text-color);
 }
 
 .text{
-    font-family: var(--primary-font);
+font-family: var(--primary-font);
 font-size: 14px;
 line-height: 1,71;
 color: #757575;
 }
 
 .name{
-    font-family: var(--primary-font);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1,18;
-    color: var(--primary-text-color);
+font-family: var(--primary-font);
+font-weight: 500;
+font-size: 16px;
+line-height: 1,18;
+color: var(--primary-text-color);
 }
 
 .about{
@@ -126,40 +126,40 @@ list-style: none;
 
 /* footer */
 .address{
-    font-family: var(--primary-font);
-    font-style: normal;
-    font-size: 14px;
-    line-height: 1.71;
-    /* color: #FFFFFF; */
-    list-style: none;
-    text-decoration: none;
+font-family: var(--primary-font);
+font-style: normal;
+font-size: 14px;
+line-height: 1.71;
+/* color: #FFFFFF; */
+list-style: none;
+text-decoration: none;
     
 }
 
 .mail{
-    font-family: var(--primary-font);
-    font-style: normal;
-    font-size: 14px;
-    line-height: 1.71;
-    /* color: rgba(255, 255, 255, 0.6); */
-    list-style: none;
-    text-decoration: none;
+font-family: var(--primary-font);
+font-style: normal;
+font-size: 14px;
+line-height: 1.71;
+/* color: rgba(255, 255, 255, 0.6); */
+list-style: none;
+text-decoration: none;
 }
 
 .phone{
-    font-family: var(--primary-font);
-    font-style: normal;
-    font-size: 14px;
-    line-height: 1.71;
-    /* color: rgba(255, 255, 255, 0.6); */
-    list-style: none;
-    text-decoration: none;
+font-family: var(--primary-font);
+font-style: normal;
+font-size: 14px;
+line-height: 1.71;
+/* color: rgba(255, 255, 255, 0.6); */
+list-style: none;
+text-decoration: none;
 }
 
 /* portfolio */
 
 .button-portfolio{
-    font-family: var(--primary-font);
+font-family: var(--primary-font);
 font-weight: 500;
 font-size: 16px;
 line-height: 1.62;
@@ -172,16 +172,16 @@ background-color: #2196F3;
 }
 
 .name-portfolio{
-    font-family: var(--primary-font);
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 2;
-    color: var(--primary-text-color);
+font-family: var(--primary-font);
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+color: var(--primary-text-color);
 }
 
 .about-portfolio{
-    font-family: var(--primary-font);
-    font-size: 16px;
-    line-height: 1.87;
-    color: #757575;
+font-family: var(--primary-font);
+font-size: 16px;
+line-height: 1.87;
+color: #757575;
 }
